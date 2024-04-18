@@ -1,0 +1,251 @@
+CrimeID,TypeOfCrime,DateOfCrime,DateSentenced,LengthOfSentence,ClientID
+CR100,Vandalism,8-Jun-20,4-May-23,63,CL199
+CR101,Harrassment,13-Aug-21,31-Jan-24,91,CL196
+CR102,Robbery,13-Sep-21,28-Oct-23,60,CL163
+CR103,Identity Theft,30-Jan-21,14-Sep-23,37,CL167
+CR104,Identity Theft,10-Mar-21,10-Jan-24,44,CL150
+CR105,Vandalism,7-Jun-20,26-Mar-23,55,CL184
+CR106,Cybercrime,27-Nov-21,4-Jul-22,94,CL109
+CR107,Drug Possession,30-Nov-21,16-Oct-23,53,CL248
+CR108,Stalking,23-May-20,12-Feb-22,34,CL101
+CR109,Drug Possession,9-Jan-21,7-Mar-22,90,CL176
+CR110,Forgery,11-Jan-21,2-May-22,29,CL241
+CR111,Theft,21-Dec-20,6-Jun-22,71,CL223
+CR112,Forgery,21-Oct-20,2-Jan-24,27,CL248
+CR113,Stalking,5-Dec-21,6-Jan-23,92,CL146
+CR114,Arson,12-Nov-21,2-Feb-23,89,CL197
+CR115,Identity Theft,23-Dec-21,21-Sep-22,26,CL232
+CR116,Cybercrime,24-Jul-21,15-Jan-24,83,CL185
+CR117,Money Laundering,6-Jun-21,1-Jun-22,52,CL218
+CR118,Public Intoxication,6-Oct-21,18-Feb-23,73,CL134
+CR119,Drug Possession,11-Aug-20,12-Feb-22,17,CL163
+CR120,Identity Theft,2-Jul-20,25-Aug-22,59,CL174
+CR121,Kidnapping,4-Feb-21,26-Feb-22,54,CL213
+CR122,Embezzlement,18-Feb-21,27-Oct-22,47,CL169
+CR123,Drug Possession,5-Dec-21,11-Aug-22,22,CL150
+CR124,Assault,26-May-21,2-Dec-22,33,CL135
+CR125,Kidnapping,14-Sep-21,12-Oct-22,74,CL179
+CR126,Harrassment,12-Jun-20,15-Feb-24,81,CL206
+CR127,Public Intoxication,15-Oct-20,9-Jul-22,56,CL112
+CR128,Vandalism,24-Dec-20,25-Aug-23,69,CL109
+CR129,Money Laundering,7-Nov-20,16-Aug-23,22,CL102
+CR130,Harrassment,18-Jun-21,24-Jan-22,35,CL160
+CR131,Fraud,6-Feb-21,28-Apr-22,66,CL199
+CR132,Assault,27-Dec-21,12-May-24,76,CL209
+CR133,Robbery,7-Dec-20,30-Apr-22,34,CL213
+CR134,Burglary,24-Dec-21,15-Dec-23,24,CL230
+CR135,Kidnapping,23-Feb-21,24-Jul-23,42,CL245
+CR136,Assault,5-Jun-21,5-May-24,24,CL183
+CR137,Domestic Violence,15-Apr-21,22-May-23,59,CL102
+CR138,Kidnapping,7-Jun-20,8-Jun-22,69,CL165
+CR139,Assault,9-Aug-21,31-May-22,13,CL245
+CR140,Stalking,14-Mar-21,21-Aug-22,19,CL162
+CR141,Sexual Assault,22-Dec-20,25-Jan-23,82,CL212
+CR142,Stalking,26-May-20,10-Jan-22,33,CL141
+CR143,Public Intoxication,21-Jan-21,26-Apr-24,41,CL234
+CR144,Sexual Assault,16-Jun-20,14-Jul-23,22,CL185
+CR145,Money Laundering,19-Jul-20,18-Mar-24,58,CL218
+CR146,Homicide,24-Apr-21,14-Oct-22,67,CL229
+CR147,Forgery,7-Jul-21,17-Nov-23,20,CL161
+CR148,Public Intoxication,17-Aug-20,12-Apr-23,16,CL230
+CR149,Forgery,7-Jan-21,24-Feb-24,83,CL150
+CR150,Arson,6-Nov-21,11-Mar-22,40,CL244
+CR151,Robbery,19-Sep-21,28-Nov-22,63,CL155
+CR152,Stalking,8-Aug-20,28-Aug-23,45,CL236
+CR153,Public Intoxication,23-Nov-20,18-May-24,32,CL105
+CR154,Arson,29-May-21,5-Jan-24,27,CL243
+CR155,Vandalism,27-Oct-21,18-Apr-23,50,CL194
+CR156,Assault,17-Dec-20,20-May-24,68,CL102
+CR157,Fraud,6-Apr-21,26-May-22,35,CL165
+CR158,Identity Theft,3-Jun-21,23-Apr-24,26,CL126
+CR159,Money Laundering,19-Aug-20,31-Jul-23,64,CL173
+CR160,Homicide,11-Aug-20,10-Oct-22,85,CL108
+CR161,Identity Theft,16-Jun-21,3-Jul-23,21,CL245
+CR162,Harrassment,1-Oct-21,16-Jun-23,91,CL176
+CR163,Domestic Violence,15-May-21,28-Mar-24,82,CL224
+CR164,Fraud,11-Oct-20,28-Mar-23,57,CL128
+CR165,Public Intoxication,25-Jul-21,8-Mar-24,51,CL143
+CR166,Theft,15-Sep-21,25-Jul-22,69,CL119
+CR167,Assault,18-Nov-20,4-Sep-23,18,CL107
+CR168,Embezzlement,31-May-21,21-May-22,82,CL232
+CR169,Theft,8-Nov-20,10-Jul-22,62,CL223
+CR170,Arson,1-Aug-21,27-May-22,42,CL204
+CR171,Sexual Assault,21-Nov-20,25-Feb-22,82,CL213
+CR172,Fraud,31-Oct-20,9-Feb-24,28,CL132
+CR173,Embezzlement,25-Aug-21,12-May-24,41,CL163
+CR174,Identity Theft,11-Mar-21,13-Jan-23,65,CL246
+CR175,Domestic Violence,16-Oct-20,20-Aug-23,20,CL201
+CR176,Burglary,1-Sep-21,9-Feb-22,64,CL131
+CR177,Stalking,7-Aug-20,7-Nov-23,76,CL106
+CR178,Assault,22-Oct-21,14-Nov-22,50,CL152
+CR179,Stalking,8-Mar-21,27-Oct-22,86,CL227
+CR180,Harrassment,4-Nov-20,9-Apr-24,84,CL111
+CR181,Stalking,18-Aug-21,26-Mar-24,17,CL189
+CR182,Identity Theft,10-Oct-20,26-Feb-23,83,CL126
+CR183,Cybercrime,11-Jun-20,2-Mar-24,34,CL116
+CR184,Harrassment,26-Oct-21,15-Aug-22,88,CL189
+CR185,Identity Theft,13-Dec-20,10-Aug-23,75,CL206
+CR186,Embezzlement,17-Mar-21,17-Mar-22,54,CL212
+CR187,Cybercrime,3-Jun-20,5-Feb-23,26,CL234
+CR188,Stalking,9-Aug-20,1-Apr-22,33,CL209
+CR189,Arson,27-Mar-21,25-Apr-24,88,CL225
+CR190,Identity Theft,24-Sep-21,29-May-22,47,CL237
+CR191,Domestic Violence,15-Jun-21,2-Jan-23,27,CL163
+CR192,Money Laundering,4-Dec-20,15-Nov-22,39,CL241
+CR193,Domestic Violence,1-Oct-20,19-Apr-23,96,CL212
+CR194,Harrassment,15-Apr-21,17-Aug-23,66,CL185
+CR195,Public Intoxication,11-Jan-21,9-Jul-22,57,CL132
+CR196,Assault,7-Nov-20,20-Mar-23,39,CL238
+CR197,Money Laundering,16-Nov-21,27-Oct-22,73,CL117
+CR198,Money Laundering,23-Mar-21,30-Dec-23,58,CL216
+CR199,Harrassment,26-Dec-21,6-Mar-23,45,CL224
+CR200,Drug Possession,2-Nov-20,18-Apr-22,34,CL235
+CR201,Money Laundering,11-May-21,17-Jun-23,89,CL192
+CR202,Kidnapping,31-May-20,14-Nov-22,44,CL106
+CR203,Sexual Assault,1-Dec-21,13-Sep-22,63,CL213
+CR204,Fraud,2-Nov-20,26-Aug-23,86,CL161
+CR205,Cybercrime,13-Nov-20,16-Feb-22,78,CL163
+CR206,Stalking,24-Aug-21,21-Dec-23,31,CL100
+CR207,Assault,2-Nov-20,16-May-22,16,CL238
+CR208,Embezzlement,2-Dec-20,21-Dec-23,23,CL131
+CR209,Assault,11-Aug-20,24-Feb-22,33,CL105
+CR210,Identity Theft,16-Apr-21,9-Jul-23,79,CL151
+CR211,Drug Possession,30-Jan-21,19-Sep-23,86,CL190
+CR212,Sexual Assault,26-Oct-20,14-Feb-23,42,CL216
+CR213,Vandalism,23-Jan-21,27-May-22,17,CL110
+CR214,Money Laundering,15-Aug-20,7-May-23,22,CL116
+CR215,Public Intoxication,22-Jun-20,8-May-23,87,CL202
+CR216,Assault,3-Jan-21,14-Apr-24,44,CL203
+CR217,Forgery,21-Nov-21,23-Jul-22,52,CL208
+CR218,Identity Theft,18-Jun-21,4-Jan-23,69,CL223
+CR219,Arson,27-Oct-21,28-Dec-23,71,CL213
+CR220,Stalking,31-Mar-21,12-Nov-23,43,CL130
+CR221,Robbery,3-Aug-21,14-Feb-24,71,CL125
+CR222,Assault,4-Nov-21,24-Apr-23,77,CL118
+CR223,Public Intoxication,13-Jan-21,2-Sep-22,70,CL196
+CR224,Vandalism,6-Sep-20,21-Feb-24,26,CL174
+CR225,Kidnapping,11-Jul-20,28-Nov-23,13,CL112
+CR226,Homicide,15-Sep-20,3-Sep-22,41,CL153
+CR227,Stalking,21-Jul-20,17-Apr-22,61,CL229
+CR228,Stalking,19-Jun-20,29-Aug-22,27,CL209
+CR229,Burglary,3-Dec-21,27-Dec-22,59,CL207
+CR230,Identity Theft,26-Jul-21,21-Apr-22,41,CL217
+CR231,Public Intoxication,27-Oct-20,11-May-22,76,CL158
+CR232,Vandalism,30-Oct-21,7-Mar-24,27,CL213
+CR233,Assault,29-Jun-21,31-Dec-23,85,CL131
+CR234,Kidnapping,4-Nov-20,18-Oct-22,38,CL239
+CR235,Theft,25-Mar-21,5-May-22,87,CL110
+CR236,Money Laundering,2-May-21,30-Dec-22,31,CL140
+CR237,Harrassment,26-Dec-20,24-Feb-23,82,CL152
+CR238,Sexual Assault,12-Jul-20,11-Dec-22,36,CL193
+CR239,Theft,7-Aug-20,23-Mar-23,46,CL143
+CR240,Domestic Violence,21-Nov-21,13-Jan-23,53,CL237
+CR241,Identity Theft,17-Aug-21,29-Aug-23,59,CL210
+CR242,Assault,19-Dec-21,21-Mar-24,87,CL192
+CR243,Kidnapping,13-May-21,9-Jul-23,33,CL105
+CR244,Fraud,25-Aug-21,28-Nov-23,77,CL103
+CR245,Identity Theft,5-Apr-21,8-Jul-22,22,CL239
+CR246,Embezzlement,8-Jun-20,5-Mar-24,15,CL139
+CR247,Harrassment,30-Sep-21,28-Jan-22,79,CL147
+CR248,Drug Possession,16-Oct-21,5-Jul-23,75,CL186
+CR249,Identity Theft,12-May-21,28-Nov-23,21,CL178
+CR250,Public Intoxication,29-Aug-20,27-Jul-23,44,CL152
+CR251,Drug Possession,30-Oct-20,20-Apr-22,76,CL108
+CR252,Cybercrime,24-Jun-20,9-Oct-22,59,CL159
+CR253,Cybercrime,13-Feb-21,8-May-24,51,CL142
+CR254,Cybercrime,16-Aug-20,1-Jan-23,16,CL139
+CR255,Assault,19-Sep-20,21-Jul-23,26,CL163
+CR256,Money Laundering,12-Apr-21,22-Nov-23,96,CL200
+CR257,Cybercrime,21-Feb-21,17-Oct-22,88,CL231
+CR258,Sexual Assault,13-Aug-21,13-Jan-24,58,CL245
+CR259,Kidnapping,25-Jun-21,1-Dec-23,54,CL202
+CR260,Public Intoxication,14-Aug-20,2-Oct-23,78,CL169
+CR261,Identity Theft,30-Jul-21,10-Mar-23,91,CL124
+CR262,Money Laundering,18-Dec-20,24-Jul-22,37,CL138
+CR263,Fraud,20-Sep-20,27-Nov-22,75,CL241
+CR264,Forgery,10-Dec-20,23-Jul-23,93,CL121
+CR265,Embezzlement,1-Aug-21,15-Apr-23,45,CL166
+CR266,Arson,18-Aug-21,19-Feb-22,48,CL235
+CR267,Theft,4-Jan-21,8-Mar-24,50,CL158
+CR268,Harrassment,12-Jul-21,10-May-22,14,CL134
+CR269,Fraud,26-Jun-21,7-Dec-22,96,CL107
+CR270,Identity Theft,19-Dec-21,17-Jan-22,18,CL170
+CR271,Drug Possession,23-Sep-20,25-Jul-23,80,CL142
+CR272,Forgery,25-May-21,1-Jun-23,20,CL173
+CR273,Stalking,3-Dec-20,26-Feb-22,30,CL119
+CR274,Public Intoxication,24-Jul-20,30-Aug-22,14,CL238
+CR275,Arson,7-Jan-21,20-Feb-23,90,CL131
+CR276,Assault,13-Aug-20,16-Jul-22,94,CL179
+CR277,Kidnapping,31-Dec-20,9-May-23,15,CL188
+CR278,Harrassment,13-Mar-21,15-Dec-23,65,CL113
+CR279,Assault,27-Mar-21,5-Jul-22,60,CL153
+CR280,Burglary,25-Mar-21,22-Aug-22,12,CL235
+CR281,Forgery,26-Jul-20,21-Nov-22,19,CL117
+CR282,Theft,4-Dec-21,20-May-22,19,CL187
+CR283,Assault,14-Jan-21,21-Oct-22,90,CL178
+CR284,Cybercrime,4-May-21,15-Dec-23,28,CL216
+CR285,Embezzlement,23-Dec-21,22-Mar-24,95,CL179
+CR286,Public Intoxication,8-Jul-21,14-Jan-23,81,CL211
+CR287,Embezzlement,3-Jul-20,6-May-23,18,CL110
+CR288,Arson,17-Aug-20,28-May-22,76,CL249
+CR289,Vandalism,30-Jul-21,12-Jun-23,26,CL115
+CR290,Fraud,21-Aug-20,23-Aug-22,13,CL170
+CR291,Homicide,26-May-20,28-Mar-22,72,CL205
+CR292,Kidnapping,23-Mar-21,24-Feb-23,63,CL151
+CR293,Vandalism,30-Mar-21,19-Nov-22,39,CL198
+CR294,Drug Possession,29-Jun-21,14-Jan-23,62,CL246
+CR295,Robbery,11-Jun-20,7-Feb-23,34,CL168
+CR296,Forgery,9-Mar-21,27-Aug-23,87,CL174
+CR297,Assault,1-Mar-21,3-Dec-22,35,CL230
+CR298,Fraud,9-May-21,9-Feb-24,74,CL126
+CR299,Fraud,2-Oct-20,20-Apr-24,49,CL133
+CR300,Harrassment,1-Jul-21,31-May-23,96,CL142
+CR301,Arson,30-Jun-20,17-Aug-23,95,CL181
+CR302,Burglary,9-Jun-21,8-May-24,46,CL184
+CR303,Kidnapping,2-Apr-21,14-Jul-22,39,CL245
+CR304,Stalking,13-Oct-21,20-Apr-24,63,CL106
+CR305,Vandalism,7-Jan-21,24-Jul-23,46,CL173
+CR306,Drug Possession,30-May-21,4-Apr-23,34,CL182
+CR307,Kidnapping,24-Jun-20,30-Sep-23,17,CL114
+CR308,Drug Possession,25-Dec-20,26-Jan-23,51,CL165
+CR309,Fraud,5-Dec-20,29-Apr-23,29,CL100
+CR310,Robbery,15-Aug-21,27-Apr-23,79,CL189
+CR311,Robbery,24-Jan-21,15-Sep-23,45,CL231
+CR312,Assault,15-Sep-20,8-Nov-23,13,CL173
+CR313,Homicide,9-Oct-20,21-Jun-23,80,CL210
+CR314,Stalking,24-Jun-20,25-May-22,12,CL224
+CR315,Cybercrime,12-Mar-21,11-Jun-23,40,CL188
+CR316,Drug Possession,24-Dec-20,26-Dec-23,36,CL133
+CR317,Public Intoxication,23-Sep-20,13-Oct-22,83,CL223
+CR318,Stalking,6-Nov-21,28-Feb-24,75,CL199
+CR319,Public Intoxication,20-Jul-21,22-Jun-23,73,CL108
+CR320,Burglary,14-Jan-21,14-Oct-22,52,CL173
+CR321,Burglary,6-Jul-20,5-Apr-24,83,CL151
+CR322,Theft,3-Jan-21,31-Jul-23,77,CL155
+CR323,Cybercrime,13-Jun-20,15-Jun-22,34,CL111
+CR324,Forgery,19-Nov-20,2-Apr-24,64,CL149
+CR325,Harrassment,18-Aug-21,6-Jul-23,28,CL230
+CR326,Assault,6-Oct-20,29-Dec-22,63,CL194
+CR327,Identity Theft,6-Jul-21,7-Dec-22,46,CL178
+CR328,Theft,17-Aug-20,19-Jun-23,96,CL242
+CR329,Vandalism,13-Oct-20,4-Apr-24,30,CL141
+CR330,Arson,11-Dec-20,29-Jan-23,76,CL230
+CR331,Arson,17-Jul-20,19-Apr-22,40,CL200
+CR332,Harrassment,24-Nov-21,14-Nov-23,39,CL247
+CR333,Domestic Violence,5-Mar-21,19-Jun-22,15,CL185
+CR334,Harrassment,31-Aug-20,3-May-23,43,CL148
+CR335,Kidnapping,9-Oct-20,8-May-24,48,CL233
+CR336,Arson,10-Nov-21,23-Apr-22,89,CL228
+CR337,Domestic Violence,20-Dec-20,9-May-22,27,CL165
+CR338,Homicide,16-Jul-20,14-Jan-24,31,CL219
+CR339,Harrassment,19-Feb-21,16-Mar-23,78,CL130
+CR340,Burglary,16-Oct-21,2-Dec-22,92,CL219
+CR341,Fraud,6-Jul-20,9-Jun-22,44,CL184
+CR342,Arson,21-Sep-21,6-Feb-23,46,CL138
+CR343,Fraud,1-Dec-21,15-Sep-22,77,CL219
+CR344,Domestic Violence,23-Sep-21,25-Feb-24,89,CL174
+CR345,Forgery,24-Aug-20,1-Sep-23,28,CL163
+CR346,Theft,27-Aug-20,5-Jun-23,87,CL105
+CR347,Identity Theft,8-Apr-21,17-Oct-23,79,CL153
+CR348,Sexual Assault,10-Dec-21,18-Apr-23,69,CL230
+CR349,Embezzlement,18-Jul-21,12-Jan-23,66,CL122
